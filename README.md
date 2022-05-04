@@ -6,8 +6,8 @@ Auto generate ID Photo using Web API
 
 Original Samples:
 
-<img src="https://user-images.githubusercontent.com/5300331/166626733-af264b39-02fc-4477-a944-1baaca1dece6.jpg" height="378px">
+<img src="https://user-images.githubusercontent.com/5300331/166626733-af264b39-02fc-4477-a944-1baaca1dece6.jpg" width="270px">
 
 Generated ID Photos:
 
-<img src="https://user-images.githubusercontent.com/5300331/166626763-119635a8-8852-46be-866d-98a1e083cac1.png" height="378px">
+<img src="https://user-images.githubusercontent.com/5300331/166626763-119635a8-8852-46be-866d-98a1e083cac1.png" width="270px">
